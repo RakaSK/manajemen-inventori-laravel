@@ -1,4 +1,16 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+# Manajemen Inventori Laravel
+
+
+# About
+Manajemen Inventori Laravel adalah satu projek pada mata kuliah sistem terdistribusi dengan team yang dibuat untuk memahi materi tentang sebuah sistem yang kompleks dimana data tersebut dapat diolah dan didistribusikan dengan baik. Selain itu, projek ini juga menjadi projek akhir semester 4 pada mata kuliah Sistem Terdistribusi
+
+# Tampilan 
+![image](https://github.com/RakaSK/manajemen-inventori-laravel/assets/58557156/362c51bf-058a-4a5c-9496-f67c47e7f77a)
+![image](https://github.com/RakaSK/manajemen-inventori-laravel/assets/58557156/ea29bc31-9d86-4874-a0f7-f00ab51e5cf1)
+
+
+
+<!-- <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
@@ -60,3 +72,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+ -->
